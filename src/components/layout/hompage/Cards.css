@@ -117,7 +117,7 @@ h1 {
     margin-bottom: 2rem;
   }
 }
-@media only screen and (max-width: 405px) {
+@media only screen and (max-width: 420px) {
   .cards {
     padding: 1rem;
   }
